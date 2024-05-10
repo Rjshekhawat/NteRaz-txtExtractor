@@ -9,6 +9,7 @@ beautifulsoup4==4.9.3
 bs4==0.0.1
 aiohttp==3.8.4
 aiofiles
+soupsieve==2.4.1
 PySocks==1.7.1
 websockets==9.1
 psutil
