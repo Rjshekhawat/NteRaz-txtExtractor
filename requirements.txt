@@ -2,11 +2,6 @@ Pyrogram
 tgcrypto==1.2.5
 requests==2.31.0
 pyromod==1.5
-certifi==2023.5.7
-charset-normalizer==3.1.0
-idna==3.4
-mutagen==1.46.0
-pyaes==1.6.1
 ffmpeg
 mediainfo
 PySocks==1.7.1
