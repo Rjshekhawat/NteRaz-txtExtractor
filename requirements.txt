@@ -4,8 +4,6 @@ requests==2.31.0
 pyromod==1.5
 ffmpeg
 mediainfo
-PySocks==1.7.1
-python-dotenv==1.0.0
 cloudscraper
 beautifulsoup4==4.9.3
 bs4==0.0.1
